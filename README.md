@@ -11,6 +11,8 @@
 
 - 💬 Me pergunte sobre **Typescrypt, HTML, CSS, ReactJS, NextJS**
 
+- 🚀 Curso de front-end Ignite da Rocketseat concluído
+
 - ⚡ Piadas ruins são bem-vindas
 
 - 🌎 Inglês fluente
