@@ -5,13 +5,13 @@
 
 - 🔥 Estudante de programação formado em engenharia civil 
 
-- 🔭 Atualmente estudando front-end com a [Rocketseat](https://github.com/Rocketseat)
+- 🔭 Atualmente estudando front-end e back-end.
 
 - ▶️ Meus videos favoritos: [Playlist: Programação](https://www.youtube.com/playlist?list=PLGwCfE9V7xHWdUU1E5xgOir6CLDO-c2_H)
 
-- 💬 Me pergunte sobre **Typescrypt, HTML, CSS, ReactJS, NextJS**
+- 💬 Me pergunte sobre **Typescrypt, HTML, CSS, ReactJS, NextJS, Node e NestJS**
 
-- 🚀 Curso de front-end Ignite da Rocketseat concluído
+- 🚀 Cursos de front-end e back-end Ignite da [Rocketseat](https://github.com/Rocketseat) concluídos
 
 - ⚡ Piadas ruins são bem-vindas
 
