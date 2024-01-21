@@ -9,7 +9,7 @@
 
 - ▶️ Meus videos favoritos: [Playlist: Programação](https://www.youtube.com/playlist?list=PLGwCfE9V7xHWdUU1E5xgOir6CLDO-c2_H)
 
-- 💬 Me pergunte sobre **Typescrypt, HTML, CSS, ReactJS, NextJS, Node e NestJS**
+- 💬 Me pergunte sobre **Typescrypt, FrontEnd, ReactJS, NextJS, Node e NestJS**
 
 - 🚀 Cursos de front-end e back-end Ignite da [Rocketseat](https://github.com/Rocketseat) concluídos
 
@@ -26,15 +26,13 @@
 
 ## 🛠 &nbsp;  Tecnologias
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
 
 
 ## ⚙️ &nbsp;  GitHub Analytics
